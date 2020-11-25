@@ -2,8 +2,8 @@
 # Installing python and necessary packages
 #########################################
 
-python3 -m venv pragya_proj2/
-source scp2/bin/activate
+python3 -m venv madaanp/
+source madaanp/bin/activate
 pip install numpy
 pip install pillow
 
