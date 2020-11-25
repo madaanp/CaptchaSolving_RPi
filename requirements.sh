@@ -1,6 +1,7 @@
 #########################################
 # Installing python and necessary packages
 #########################################
+mkdir madaanp
 python3 -m venv madaanp/
 source madaanp/bin/activate
 pip install numpy
